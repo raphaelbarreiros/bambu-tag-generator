@@ -1,0 +1,18 @@
+# Generated output
+output/
+
+# Scraper output (regenerated from website)
+*.csv
+*.xlsx
+failed_urls.txt
+
+# Keep the override config and bundled filament data
+!collection_override.json
+!filament_data_combined.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store

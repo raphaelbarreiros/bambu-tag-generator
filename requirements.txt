@@ -1,0 +1,7 @@
+# Required
+requests>=2.25.0
+beautifulsoup4>=4.9.3
+
+# Optional (for Excel export only)
+pandas>=1.2.0
+openpyxl>=3.0.5
